@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "eslint-loader": "^4.0.2",
+    "remove": "^0.1.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
